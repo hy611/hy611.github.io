@@ -20,11 +20,8 @@ Here list the news and announcement
 
 Academic background
 ======
-Ph.D. in Mechanical Engineering (2021)
-Auburn University
+Ph.D. in Mechanical Engineering, Auburn University (2021)
 
-M.S. in Safety Science and Engineering (2016)
-University of Science and Technology of China
+M.S. in Safety Science and Engineering, University of Science and Technology of China (2016)
 
-B.S. Safety Science and Engineering (2013)
-Nanjing Tech University
+B.S. Safety Science and Engineering, Nanjing Tech University (2013)
